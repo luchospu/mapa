@@ -1324,6 +1324,291 @@
         "styleHash": "-522880f7",
         "description": "<div><img src=\"http://www.fishingflypatagonia.com.ar/imag/dryfly/maps.jpg\"></div><a href=\"http://www.apartdryfly.com.ar/\" target=\"_blank\">+info</a>"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.510056,
+          -40.462425,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lago Falkner",
+        "styleUrl": "#style7",
+        "styleHash": "-6ba301da",
+        "description": "<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.354195,
+          -40.15509,
+          0
+        ]
+      },
+      "properties": {
+        "name": "San Martín de Los Andes",
+        "styleUrl": "#style15",
+        "styleHash": "9171e11",
+        "description": "<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.434387,
+          -40.494812,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lago Nuevo",
+        "styleUrl": "#style1",
+        "styleHash": "-433b823e",
+        "description": "<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.570953,
+          -40.445248,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lago Villarino",
+        "styleUrl": "#style8",
+        "styleHash": "d43c449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.543556,
+          -40.445812,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Río Villarino",
+        "styleUrl": "#style17",
+        "styleHash": "-5290799f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.536949,
+          -40.442055,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arroyo Filuco",
+        "styleUrl": "#style10",
+        "styleHash": "5cf03fda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.539459,
+          -40.443233,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bajada: \"Playas Ruta 40\" (acceso vehicular)",
+        "styleUrl": "#style5",
+        "styleHash": "3f2be9f3",
+        "description": "<div dir=\"ltr\">Sobre la playa al costado de la Ruta 40 (ruta de los 7 Lagos), lugar ideal para flotadores personales o algún pequeño bote. Tiene toda la costa rodeada de Juncos, hay que pasar esa línea y lanzar desde el lago hacia los juncos, se obtienen resultados increíbles sobre todo a comienzos de temporada.</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.540398,
+          -40.445255,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bajada: \"Desembocadura del río Villarino\" (acceso vehicular)",
+        "styleUrl": "#style6",
+        "styleHash": "6a487334",
+        "description": "<div dir=\"ltr\">La desembocadura del rio Villarino es un punto estratégico para <i>clavar </i>grandes marrones, sobre todo a comienzos de temporada, cuando estas comienzan a <i>moverse </i>hacia los lagos Falkner y Villarino.</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.447098,
+          -40.497303,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bajada: \"Desembocadura\" (acceso embarcación)",
+        "styleUrl": "#style13",
+        "styleHash": "5852fcca",
+        "description": "<div dir=\"ltr\">Un punto clave para los que cuentan con embarcación es la desembocadura del lago en el pequeño Lago Nuevo, lugar excelente y poco frecuentado, donde la pesca es maravillosa. (leer reglamento de pesca, durante los meses de Marzo y Abril esta zona queda restringida por temporada de Caza).</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.53994,
+          -40.446106,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bajada: \"Pasando el río Villarino\" (acceso embarcación)",
+        "styleUrl": "#style12",
+        "styleHash": "2d367389",
+        "description": "<div dir=\"ltr\">Pasando el río Villarino se lo puede caminar por unos cuantos km sin problemas, esta zona es muy buena ya entrado el verano cuando las grandes truchas ya están en el lago en su etapa de <i>engorde</i>. Imitaciones Mayfly y Caddis son letales con pequeñas patinadas sobre la superficie. Sin descartar Streamers en los veriles, con línea de hundimiento.</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.533073,
+          -40.438526,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bajada: \"Camping Falkner\" (acceso vehicular)",
+        "styleUrl": "#style11",
+        "styleHash": "219ea48",
+        "description": "<div dir=\"ltr\">Camping sobre el lago Falkner, lugar ideal para pasar unos cuantos días, con bajada de lanchas y sectores rendidores desde la orilla, sobre todo a principios de temporada.</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.536842,
+          -40.442314,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bajada: \"Arroyo Filuco\" (acceso vehicular)",
+        "styleUrl": "#style16",
+        "styleHash": -26576773,
+        "description": "<div dir=\"ltr\">Pasando el camping tenemos la desembocadura del Arroyo Filuco, pesquero excelente a comienzos y a fines de temporada. Muy buena opción es lanzar hacia el arroyo pequeñas secas y ninfas, para tentar a las grandes reproductoras que utilizan este arroyo para el desove.</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.519669,
+          -40.453445,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bajada: \"Las Islas\" (acceso embarcaciones)",
+        "styleUrl": "#style4",
+        "styleHash": "140f60b2",
+        "description": "<div dir=\"ltr\">Zona muy profunda donde es muy común ver grandes truchas y percas alimentarse en el fondo. Streamer como Matukas negras y verdes y Rabbits en general hacen la diferencia. En días de altas temperaturas es común ver a grandes arco iris salir como misiles desde el fondo a gran velocidad saltando hasta 1 m de altura, es una casería fantástica de libélulas y aguaciles que revolotean en esta zona.</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.51561,
+          -40.466248,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bajada: \"El Arroyo\" (acceso embarcación)",
+        "styleUrl": "#style3",
+        "styleHash": "-170d288f",
+        "description": "<div dir=\"ltr\">A comienzos de temporada, con aguas altas, gran cantidad de marrones y arco iris se alimentan de ninfas y pequeños peces que por fuerza de la corriente son arrastrados lago adentro. Lanzar desde la orilla hacia el lago dejando derivar naturalmente nuestras ninfas como si las arrastrara este arroyo, sentirán los piques al instante.</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.501038,
+          -40.47044,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bajada: \"Bahía del Medio\" (acceso embarcación)",
+        "styleUrl": "#style2",
+        "styleHash": "-4229b1d0",
+        "description": "<div dir=\"ltr\">Pesquero formidable, fundamentalmente en los meses de altas temperaturas, aquí suelen alimentarse de pequeñas ninfas emergentes y secas que el agua amontona en esta bahía.</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.453255,
+          -40.493732,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bajada: \"Último Arroyo\" (acceso embarcación)",
+        "styleUrl": "#style9",
+        "styleHash": "-1461f109",
+        "description": "<div dir=\"ltr\">En esta zona, cerca de la desembocadura, grandes truchas se alimentan sobre todo con aguas altas de todo lo que el arroyo les provee: ninfas, peces, insectos, etc. Pesquero formidable de grandes truchas.</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.533745,
+          -40.439156,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Camping Falkner",
+        "styleUrl": "#style14",
+        "styleHash": "-4e7c48d5"
+      }
     }
   ]
 }
